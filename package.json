@@ -1,18 +1,18 @@
 {
-  "name": "testing-demo",
+  "name": "demo",
   "description": "",
   "version": "0.1.0",
-  "homepage": "https://github.com/joelcoxokc/testing-demo",
+  "homepage": "https://github.com//demo",
   "author": {
     "name": "joelcoxokc",
     "email": "joelcox@hisimagination.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/joelcoxokc/testing-demo.git"
+    "url": "git://github.com//demo.git"
   },
   "bugs": {
-    "url": "https://github.com/joelcoxokc/testing-demo/issues"
+    "url": "https://github.com//demo/issues"
   },
   "licenses": [
     {
@@ -20,7 +20,7 @@
       "url": "http://opensource.org/licenses/MIT"
     }
   ],
-  "main": "lib/testing-demo",
+  "main": "lib/demo",
   "engines": {
       "node": ">=0.10.26",
       "npm": ">=1.4.3"
