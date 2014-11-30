@@ -1,6 +1,6 @@
 /*
- * demo
- * https://github.com//demo
+ * testing-demo
+ * https://github.com/joelcoxokc/testing-demo
  *
  * Copyright (c) 2014 joelcoxokc
  * Licensed under the MIT license.
@@ -12,11 +12,11 @@ var chai = require('chai');
 chai.expect();
 chai.should();
 
-var demo = require('../lib/demo.js');
+var testingDemo = require('../lib/testing-demo.js');
 
-describe('demo', function(){
+describe('testingDemo', function(){
     it('is defined', function(){
-      demo.should.be.a('function');
+      testingDemo.should.be.a('function');
     });
 
 });
